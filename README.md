@@ -21,4 +21,5 @@ of the intruder’s activities. Cybersecurity knowledge for healthcare orgainiza
 They have to be trained to understand the aspects of it. A secure and safe environment for patients is the goal of cybersecurity.
 
 ## Honeypots as security solution
+![imghealth](https://user-images.githubusercontent.com/15608430/33223498-fcd2908a-d12d-11e7-897f-dc99d6dd515e.PNG)
 
